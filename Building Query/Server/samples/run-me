@@ -1,0 +1,4 @@
+#!/bin/bash
+cp test1.db ./test1.db
+cp test2.db ./test2.db
+echo "done, run the script in the previous folder (server)"
