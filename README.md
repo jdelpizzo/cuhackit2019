@@ -1,4 +1,4 @@
-Collaboration with Sean Sullivan
+Collaboration with Sean Sullivan, Trey Stevens, and Michael Gerba
 
 # cuhackit2019
 Building query
