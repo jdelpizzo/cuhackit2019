@@ -4,6 +4,6 @@ Collaboration with Sean Sullivan
 Building query
 
 Dependencies:
-  Bluetool, python-dbus, tcpbridge, sqlite3, bash
+  python 2.7, Bluetool, python-dbus, tcpbridge, sqlite3, bash
   
 we suggest DB Browser for SQLite to read the databases
