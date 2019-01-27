@@ -7,3 +7,5 @@ Dependencies:
   python 2.7, Bluetool, python-dbus, tcpbridge, sqlite3, bash
   
 we suggest DB Browser for SQLite to read the databases
+
+Add execution for all of the scripts and run them if you want a demo
